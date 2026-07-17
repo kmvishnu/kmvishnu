@@ -1,14 +1,14 @@
 # 💫 About Me:
-💻 Fullstack Developer | Next.js, Node.js & Microservices Engineering<br>🚀 Designing scalable backends and highly polished, interactive user interfaces<br>⚡ TypeScript • React.js • Express.js • PostgreSQL • AWS<br>🌍 Open to exciting development & application architecture opportunities<br>🌱 Exploring React Native, Advanced System Design & NestJS
+💻 Fullstack Developer | React.js, Node.js & Microservices Engineering<br>🚀 Designing scalable backends and highly polished, interactive user interfaces<br>⚡ TypeScript • React.js • Express.js • PostgreSQL • AWS<br>🌍 Open to exciting development & application architecture opportunities<br>🌱 Exploring React Native, Advanced System Design & NestJS
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-k-m-2bb28b293/) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://kmvishnu.in) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kmvishnu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnukmurali96@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-k-m-2bb28b293/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vishnu_k_m__) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://kmvishnu.in) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kmvishnu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnukmurali96@gmail.com) 
 
 # 💻 Tech Stack:
 
 ### 🎨 Frontend & Design
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) Extracted ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ### ⚙️ Backend & Architecture
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=512BD4)
@@ -26,4 +26,4 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=kmvishnu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmvishnu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
