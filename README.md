@@ -28,5 +28,5 @@
 ---
 <div align="center">
   <h3>Profile Views:</h3>
-  <img src="https://count.getloli.com/get/@kmvishnu?theme=rule34" alt="Vishnu's Profile Views" />
+  <img src="https://count.getloli.com/get/@kmvishnu?theme=nixietube-1" alt="Vishnu's Profile Views" />
 </div>
